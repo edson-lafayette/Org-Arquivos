@@ -1,4 +1,4 @@
-#Busca Binária
+# Busca Binária
 
 buscaBinaria.c --> código em C
 buscaBinaria.exe --> código compilado com gcc
