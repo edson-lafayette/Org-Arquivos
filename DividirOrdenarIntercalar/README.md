@@ -10,8 +10,8 @@ ir intercalando de dois em dois esses arquivos até gerar um arquivo com todos o
 original ordenados por CEP. No final do processo todos os arquivos anteriores gerados pela intercalação <br/>
 serão excluídos, deixando apenas o último arquivo.
 
-No código o TAMANHO está definido como 8 e o arquivo ordenado se chamará "cep15.dat".
-Mas o valor do TAMANHO pode ser alterado que o código funcionará normalmente.
+No código o TAMANHO está definido como 8 e o arquivo ordenado se chamará "cep15.dat". <br/>
+Mas o valor do TAMANHO pode ser alterado que o código funcionará normalmente. <br/>
 E o nome do arquivo ordenado segue o padrão "cep[(TAMANHO*2)-1].dat".
 
 
